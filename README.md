@@ -1,6 +1,6 @@
 # Digital Calculator Project
 
-The project consists in a calculator app that receives two values and executes a basic math operation. It was created as part of IGTI Cursos Front End Development bootcamp.
+The project consists in a calculator app, developed using React, that receives two values and executes a basic math operation. It was created as part of IGTI Cursos Front End Development bootcamp.
 
 ## **Skills practiced:**
 
