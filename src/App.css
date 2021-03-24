@@ -69,7 +69,7 @@
   margin: 0.8em;
   cursor: pointer;
   background-color: var(--button);
-  transition: background-color 0.25s;
+  transition: background-color 0.15s;
 }
 
 .button:hover:not(.disabled) {
@@ -77,9 +77,9 @@
 }
 
 .button:active:not(.disabled) {
-  background-color: var(--buttonClk);
+  background-color: transparent;
   box-shadow: inset 0 0 5px black;
-  border: none;
+  border: 1px solid transparent;
 }
 
 .copyright {
