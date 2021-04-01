@@ -21,5 +21,5 @@ The project consists in a calculator app, developed using React, that receives t
 
 ## **Screenshot:**
 
-![Digital Calculator Screenshot](C:\Desktop\CURSOS\IGTI\Bootcamp Front End\Projetos\Módulo 2\digital_calculator\Digital Calculator Screenshot.jpg)
+![Digital Calculator Screenshot](https://user-images.githubusercontent.com/79882701/113348906-9a72ba00-930d-11eb-9fe9-eb9b5838c647.jpg)
 
