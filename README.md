@@ -19,3 +19,7 @@ The project consists in a calculator app, developed using React, that receives t
 - "To square" operation executes without the need to push "=" button.
 - All buttons except "C" disabled after conclusion of math operation.
 
+## **Screenshot:**
+
+![Digital Calculator Screenshot](C:\Desktop\CURSOS\IGTI\Bootcamp Front End\Projetos\Módulo 2\digital_calculator\Digital Calculator Screenshot.jpg)
+
