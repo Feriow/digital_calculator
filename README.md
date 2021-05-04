@@ -23,3 +23,32 @@ The project consists in a calculator app, developed using React, that receives t
 
 ![Digital Calculator Screenshot](https://user-images.githubusercontent.com/79882701/113348906-9a72ba00-930d-11eb-9fe9-eb9b5838c647.jpg)
 
+
+
+## Project setup
+
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+
+```
+yarn build
+```
+
+### Lints and fixes files
+
+```
+yarn lint
+```
+
+### Customize configuration
+
+See [Configuration Reference](https://cli.vuejs.org/config/).
